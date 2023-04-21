@@ -65,6 +65,9 @@ brew 'wget'
 brew 'yarn'
 brew 'yq'
 brew 'zellij'
+brew 'step'
+brew 'linkerd'
+brew 'istioctl'
 
 
 ## Font Family: Nerd Font
