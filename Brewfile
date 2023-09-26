@@ -68,6 +68,7 @@ brew 'zellij'
 brew 'step'
 brew 'linkerd'
 brew 'istioctl'
+brew 'tap oven-sh/bun'
 
 
 ## Font Family: Nerd Font
