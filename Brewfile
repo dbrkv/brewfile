@@ -5,7 +5,8 @@ cask_args appdir: "~/Applications", require_sha: true
 brew 'age'
 brew 'ansible'
 brew 'aws-iam-authenticator'
-brew 'aws/tap/aws-sam-cli'
+# https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/manage-sam-cli-versions.html#manage-sam-cli-versions-homebrew
+brew 'aws-sam-cli'
 brew 'awscli'
 brew 'bat'
 brew 'chezmoi'
