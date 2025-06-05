@@ -75,7 +75,10 @@ cask 'font-jetbrains-mono-nerd-font'
 cask 'font-inconsolata-nerd-font'
 cask 'font-hack-nerd-font'
 
+
+
 # Failing to install on Fedora 42
+# Stripe formula only macOS
 # brew 'stripe/stripe-cli/stripe'
 # brew 'teamookla/speedtest/speedtest'
 # brew 'wagoodman/dive/dive'
