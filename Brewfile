@@ -49,19 +49,17 @@ brew 'oci-cli'
 brew 'opa'
 brew 'pre-commit'
 brew 'quarkusio/tap/quarkus'
-brew 'stripe/stripe-cli/stripe'
 brew 'symfony-cli/tap/symfony-cli'
-brew 'teamookla/speedtest/speedtest'
 brew 'tenv'
 brew 'txn2/tap/kubefwd'
-brew 'wagoodman/dive/dive'
+
 
 # Programming languages and runtimes
 brew 'go'
 brew 'node'
 brew 'php@8.4'
 brew 'rust'
-brew 'tap oven-sh/bun'
+brew 'oven-sh/bun/bun'
 
 # Development tools and package managers
 brew 'composer'
@@ -71,9 +69,16 @@ brew 'yarn'
 brew 'uv'
 
 ## Font Family: Nerd Font
+cask 'font-roboto-mono-nerd-font'
+cask 'font-mononoki-nerd-font'
+cask 'font-jetbrains-mono-nerd-font'
+cask 'font-inconsolata-nerd-font'
+cask 'font-hack-nerd-font'
+
+# Failing to install on Fedora 42
+# brew 'stripe/stripe-cli/stripe'
+# brew 'teamookla/speedtest/speedtest'
+# brew 'wagoodman/dive/dive'
+
+# Ubuntu font
 # cask 'homebrew/cask-fonts/font-ubuntu-mono-nerd-font'
-cask 'homebrew/cask-fonts/font-roboto-mono-nerd-font'
-cask 'homebrew/cask-fonts/font-mononoki-nerd-font'
-cask 'homebrew/cask-fonts/font-jetbrains-mono-nerd-font'
-cask 'homebrew/cask-fonts/font-inconsolata-nerd-font'
-cask 'homebrew/cask-fonts/font-hack-nerd-font'
