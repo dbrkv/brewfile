@@ -60,6 +60,7 @@ brew 'node'
 brew 'php@8.4'
 brew 'rust'
 brew 'oven-sh/bun/bun'
+brew 'ruby'
 
 # Development tools and package managers
 brew 'composer'
