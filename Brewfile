@@ -19,6 +19,7 @@ brew 'tree'
 brew 'wget'
 brew 'yq'
 brew 'zellij'
+brew 'fzf'
 
 # Security and encryption tools
 brew 'age'
