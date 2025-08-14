@@ -77,6 +77,7 @@ cask 'font-mononoki-nerd-font'
 cask 'font-jetbrains-mono-nerd-font'
 cask 'font-inconsolata-nerd-font'
 cask 'font-hack-nerd-font'
+cask 'font-fira-code-nerd-font'
 
 
 
